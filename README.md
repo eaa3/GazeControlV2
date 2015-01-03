@@ -25,6 +25,7 @@ This is a Java Simulation of three Gaze Control Models for manipulation: Unc, RU
   *e.g.* `java -jar exp.jar 1 15 60000 RUG GRSP`
 
 Where,
+* exp.jar is the name of the exported .jar file
 * InitialGraspingThreshold: Initial grasping threshold (usually set to 1)
 * InitialFOV: Initial Field of View -FOV (e.g. 15)
 * TrialTime (ms): Trial time in miliseconds.
