@@ -5,8 +5,13 @@ This is a Java Simulation of three Gaze Control Models for manipulation: Unc, RU
 
 
 # How to run it
+## Running in eclipse
 
-## Exporting the .jar executable
+1. You can simply run it using Eclipse
+
+*However, you may need to change the simulation parameters by changing the code directly or modifying the "Run Configurations" of the project adding program arguments detailed below.*
+
+## Exporting and running as .jar executable
 
 1. Import project in Eclipse IDE.
 2. Export the project as a java runnable file (.jar).
